@@ -35,8 +35,6 @@
     "@fortawesome/fontawesome-svg-core": "1.2.8",
     "@fortawesome/free-solid-svg-icons": "5.5.0",
     "@fortawesome/vue-fontawesome": "0.1.2",
-    "@uvue/core": "^0.1.0-alpha",
-    "@uvue/server": "^0.1.0-alpha",
     "axios": "0.18.0",
     "lodash": "4.17.11",
     "normalize.css": "8.0.1",
@@ -47,7 +45,6 @@
     "vuex": "3.0.1"
   },
   "devDependencies": {
-    "@uvue/vue-cli-plugin-ssr": "0.1.0-alpha.2",
     "@vue/cli-plugin-babel": "3.1.x",
     "@vue/cli-plugin-e2e-cypress": "3.1.x",
     "@vue/cli-plugin-eslint": "3.1.x",
